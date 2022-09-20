@@ -176,12 +176,3 @@ def main(filepath):
 if __name__ == '__main__':
     path = 'Youtube.csv'
     main(path)
-
-
-
-
-
-#<h1 class="title style-scope ytd-video-primary-info-renderer"><yt-formatted-string force-default-style="" class="style-scope ytd-video-primary-info-renderer">Elon Musk Tells Jay What He Thinks Of Patents | Watch The Full Ep Wed 10p ET</yt-formatted-string></h1>
-#<tp-yt-paper-button id="more" aria-expanded="false" noink="" class="style-scope ytd-expander" style-target="host" role="button" tabindex="0" animated="" elevation="0" aria-disabled="false"><!--css-build:shady-->
-#  <yt-formatted-string class="more-button style-scope ytd-video-secondary-info-renderer" slot="more-button" role="button">Show more</yt-formatted-string>
-#</tp-yt-paper-button>
